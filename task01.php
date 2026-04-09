@@ -1,2 +1,2 @@
 <?php
-echo "Hello, World!";
+echo "Setup PHP environment for task 01";
